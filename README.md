@@ -1,4 +1,4 @@
-# Calculator-
+# Calculator
 
 ## Basic calculator program using Python.
 
